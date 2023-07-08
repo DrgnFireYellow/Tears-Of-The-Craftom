@@ -69,6 +69,11 @@ hash = "aaaa409a77242f368ba70286070c507b58c159acaec95ac401639ea02b84b9a1"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "c0e3742de5b13c1526799649510b7f573bb4bb340527df9eb21579fc71a4605d"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "b49221b2dfcf57a53bcb0fef8ccecf759f1c418cf27e43125601f1b878a8aaa1"
 metafile = true
