@@ -1,0 +1,94 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "84062969a7ced3ed3e8e99ce8834925260ef4369a96150f11cf0bf38546f2d71"
+
+[[files]]
+file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.0.2_Waystones.zip"
+hash = "6555ff112f57b9e0d81f1599ae233c0a43931a30345de81d30aded0febae5c81"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "00cb4565f09eb467ceb0d56f519196204c2486759963bb204c5e88559ed1ad6a"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "92ef5eeacae2ae73c478e5b829a03e91f2b0a364cf2c72bd75884b537ae720ca"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "ccc82fc6325061cc1e3473d415de87607077e9de86de24b89e294dde316a6e41"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fde50922280644688030151b6473a2582544a602612b258d17df281a589ba0cc"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/paragliders.pw.toml"
+hash = "14f2b768e36c2d01698ebe5512f1045827ec673340b0e62525079ced1f1b4f15"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "663a3f2f25983b9a40a941bce124de46129313b3c632cbff6bb9858976106b44"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages.pw.toml"
+hash = "aaaa409a77242f368ba70286070c507b58c159acaec95ac401639ea02b84b9a1"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "b49221b2dfcf57a53bcb0fef8ccecf759f1c418cf27e43125601f1b878a8aaa1"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "a4456a4b5ea1b32af885f8e1ff79c93f4bded027f76fe56007cf5d0009cfc6c6"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "13bb623253a2afb39fb4577d110ac9c14c4ed5bd42ef37fed99f71cd0974a1ee"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "90b010b725f2150ba017c2db5c8565f1919b1f34848285c7c3a0a38731deb422"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "44c7e30bfa53ed30a681f3efed2755c3cff4db059ca3bcdc233ebad8f69e922e"
+metafile = true

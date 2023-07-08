@@ -1,0 +1,13 @@
+name = "Tears of the Craftom"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "08f96ea067b1a2425c84c02c46b846426ac1727799a73f0cf414bf84b27099d9"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"
